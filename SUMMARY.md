@@ -1,8 +1,6 @@
 # Summary
 
 * [我有话要说](README.md)
-    * [Python?](p/python.md)
-    * [说明](p/README.md)
 * [基础入门](introductory/README.md)
     * [环境管理](introductory/environment_configuration.md)
     * [基本数据类型](introductory/basic_data_type.md)
