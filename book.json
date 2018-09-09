@@ -1,0 +1,23 @@
+{
+    "title": "Python Notes",
+    "author": "Evan Li",
+    "authorHomepage": "http://www.cnblogs.com/evan-blog/",
+    "baiduStatisticsCode": "",
+    "description": "This is my handy Python notebook",
+    "language": "zh-hans",
+    "variables": {
+      "homePage": "/"
+    },
+    "plugins": [
+      "theme-code",
+      "splitter",
+      "prism",
+      "folding-chapters",
+      "-sharing"
+    ],
+    "pluginsConfig": {
+      "theme-default": {
+        "showLevel": true
+      }
+    }
+  }
