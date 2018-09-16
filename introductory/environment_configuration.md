@@ -82,7 +82,7 @@ index-url = http://pypi.douban.com/simple
 我简单举两个例子吧
 
 - 开发人员需要在服务器上安装一个软件，但是如果给与pip的超级权限就会破坏全局Python的影响所有用户，这样给用户自己家目录里面搞一个Python，就防止破坏全局的Python同时权限也给限制住了，推荐工具**pipenv**；
-- 一台服务器可能部署两个Python的应用，一个应用基于Django1.11开发(Python中很牛*的一款WEB框架)，而另外一款则是基于Django2.1开发的，但是Django1.11和Django2.1的语法有冲突不能一起使用，所以就尴尬了，这里我推荐使用python3 自带的**venv**模块；
+- 一台服务器可能部署两个Python的应用，一个应用基于Django1.11开发(Python中很牛B的一款WEB框架)，而另外一款则是基于Django2.1开发的，但是Django1.11和Django2.1的语法有冲突不能一起使用，所以就尴尬了，这里我推荐使用python3 自带的**venv**模块；
 
 ### 2.1 初级使用pipenv
 
